@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-from sys import argv
+from sys inport argv
 
 with open(argv[1]) as f:
     for line in f:
